@@ -38,11 +38,11 @@ The corresponding new list will be generated and the NII file will be generated 
 
 #MAS#
 
-Enter at the same time, separated by spaces:
+Input at the same time, separated by spaces:
 
-List of test sample
-List of atlas
-List of atlas mask
+List of test images
+List of atlas images
+List of mask for atlas images
 List of landmarks of atlas
 Storage address of temporary documents
 Storage address of final results
