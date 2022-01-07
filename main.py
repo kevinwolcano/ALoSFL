@@ -10,8 +10,8 @@ import argparse
 import pandas as pd
 import numpy as np
 
-os.chdir('I:/Skull_program/ALoSFL_v2/')
-#sys.path.append(os.getcwd())
+
+sys.path.append(os.getcwd())
 from tools.dicom2nii import *
 from tools.MAS import *
 from tools.resample import *
