@@ -1,0 +1,2 @@
+example/atlas_images/image_1.nii.gz
+example/atlas_images/image_2.nii.gz
