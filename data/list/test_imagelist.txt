@@ -1,1 +1,0 @@
-H:/MASthe_final/data/testimage/image_resample.nii.gz

@@ -1,2 +1,0 @@
-H:/MASthe_final/data/atlas/167/image_resample.nii.gz
-H:/MASthe_final/data/atlas/169/image_resample.nii.gz
