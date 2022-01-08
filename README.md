@@ -38,7 +38,7 @@ then you can run:
 We have provided an example of toy data to help you walk through the use of ALoSFL. 
 To play with the example, you can simply run:
 
-`python ./main.py `
+`python ./main.py --top_n 2`
 
 More details can be found in the help list by typing:
 
