@@ -47,8 +47,7 @@ More details can be found in the help list by typing:
 
 The complete parameters are listed below:
 
-`python main.py [-h] [--dicom2nii {atlas, test, both, none}] [--resample {atlas, test, both, none}] [--list_atlas_images [path]] [--list_landmarks [path]]
-[--list_test_images [path]] [--fusion {1, 2, 3, 4}] [--output [path]] [--tmp [path]] [--top_n N] [--delete {T,F}]`
+`python main.py [-h] [--dicom2nii {atlas, test, both, none}] [--resample {atlas, test, both, none}] [--list_atlas_images [path]] [--list_landmarks [path]] [--list_test_images [path]] [--fusion {1, 2, 3, 4}] [--output [path]] [--tmp [path]] [--top_n N] [--delete {T,F}]`
 
 
 ### Data Preparation
