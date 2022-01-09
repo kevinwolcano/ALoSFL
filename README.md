@@ -35,14 +35,20 @@ then you can run:
 
 `python ./main.py --resample test --fusion 2 --top_n 10`
 
-We have provided an example of toy data to help you walk through the use of ALoSFL. 
+We have provided an example of toy data to help you walk through the use of ALoSFL. Considering privacy issue, the example images are desensitized and synthesized and the landmarks are randomly generated. Our example just guide you to understand the format of input data and the pipeline.
+
 To play with the example, you can simply run:
 
-`python ./main.py --top_n 2`
+`python ./main.py`
 
 More details can be found in the help list by typing:
 
 `python ./main.py -h`
+
+The complete parameters are listed below:
+
+`python main.py [-h] [--dicom2nii {atlas, test, both, none}] [--resample {atlas, test, both, none}] [--list_atlas_images [path]] [--list_landmarks [path]]
+[--list_test_images [path]] [--fusion {1, 2, 3, 4}] [--output [path]] [--tmp [path]] [--top_n N] [--delete {T,F}]`
 
 
 ### Data Preparation
