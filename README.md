@@ -71,7 +71,7 @@ More information can be found [here](https://www.nitrc.org/plugins/mwiki/index.p
 ### Citation
 If you use the ALoSFL software, please cite:
 
-*Qian et al., Genetic evidence for facial variation being a composite phenotype of cranial variation and facial soft tissue thickness. Journal of Genetics and Genomics. 2022*
+*Qian et al., Genetic evidence for facial variation being a composite phenotype of cranial variation and facial soft tissue thickness. Journal of Genetics and Genomics. 2022. DOI: https://doi.org/10.1016/j.jgg.2022.02.020*
 
 
 ### Support
